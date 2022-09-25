@@ -1,5 +1,5 @@
 
-let mark = 10;
+let mark = prompt('Enter your score');
 if(mark > 90) 
 console.log('AA');
 else if (mark > 80 && mark <= 90)
